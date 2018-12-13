@@ -1,0 +1,6 @@
+*python2 or python3(any version)
+*pygame module
+*Good knowledge of python functions,loops,conditions,structure.
+*paint.net.4.0.21
+*pycharm(or any python IDE)
+
